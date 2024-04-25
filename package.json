@@ -1,5 +1,5 @@
 {
-  "name": "@uniswap/v2-sdk",
+  "name": "@nathan2024/up-v2-sdk",
   "license": "MIT",
   "version": "4.3.0",
   "description": "🛠 An SDK for building applications on top of Uniswap V2",
@@ -8,10 +8,11 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/Uniswap/uniswap-v2-sdk.git",
+  "repository": "https://github.com/nathonNot/v2-sdk.git",
   "keywords": [
     "uniswap",
-    "ethereum"
+    "ethereum",
+    "nathan"
   ],
   "module": "dist/v2-sdk.esm.js",
   "scripts": {
@@ -24,7 +25,7 @@
   "dependencies": {
     "@ethersproject/address": "^5.0.0",
     "@ethersproject/solidity": "^5.0.0",
-    "@uniswap/sdk-core": "^4.2.0",
+    "@nathan2024/up-sdk-core": "^4.2.0",
     "tiny-invariant": "^1.1.0",
     "tiny-warning": "^1.0.3"
   },
